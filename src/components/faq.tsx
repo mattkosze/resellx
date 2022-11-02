@@ -70,7 +70,7 @@ const FAQ = () => {
 
         <span className="font-medium w-full max-w-[500px] text-[14px] md:text-[16px] text-[#7A8CA1]">
           Learn more about ResellX through our FAQ! If your question is not
-          answer, feel free to contact us via Twitter, Instagram, or Discord.
+          answered, feel free to contact us via Twitter, Instagram, or Discord.
         </span>
       </div>
 
