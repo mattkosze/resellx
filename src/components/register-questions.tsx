@@ -57,7 +57,7 @@ const Two = ({ next, notify }: QuestionProps) => {
           <div className="flex flex-col gap-[30px]">
             <iframe
               className="rounded-[5px] drop-shadow-lg w-full h-[300px] max-w-[500px]"
-              src="https://www.youtube.com/embed/uuodbSVO3z0"
+              src="https://www.youtube.com/embed/VyTarjUjNMQ"
             ></iframe>
 
             <button
@@ -90,7 +90,7 @@ const Three = ({ next, notify }: QuestionProps) => {
         <div className="flex flex-col gap-[30px]">
           <iframe
             className="rounded-[5px] drop-shadow-lg w-full h-[300px] max-w-[500px]"
-            src="https://www.youtube.com/embed/uuodbSVO3z0"
+            src="https://www.youtube.com/embed/zz8frWcmthA"
           ></iframe>
 
           <button
@@ -122,7 +122,7 @@ const Four = ({ next, notify }: QuestionProps) => {
         <div className="flex flex-col gap-[30px]">
           <iframe
             className="rounded-[5px] drop-shadow-lg w-full h-[300px] max-w-[500px]"
-            src="https://www.youtube.com/embed/uuodbSVO3z0"
+            src="https://www.youtube.com/embed/e7U1YZNgwnY"
           ></iframe>
 
           <button
@@ -154,7 +154,7 @@ const Five = ({ next, notify }: QuestionProps) => {
         <div className="flex flex-col gap-[30px]">
           <iframe
             className="rounded-[5px] drop-shadow-lg w-full h-[300px] max-w-[500px]"
-            src="https://www.youtube.com/embed/uuodbSVO3z0"
+            src="https://www.youtube.com/embed/Ij65wvAGX-c"
           ></iframe>
 
           <button
