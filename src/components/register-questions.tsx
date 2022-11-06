@@ -57,7 +57,7 @@ const Two = ({ next, notify }: QuestionProps) => {
           <div className="flex flex-col gap-[30px]">
             <iframe
               className="rounded-[5px] drop-shadow-lg w-full h-[300px] max-w-[500px]"
-              src="https://www.youtube.com/embed/VyTarjUjNMQ"
+              src="https://player.vimeo.com/video/767856115"
             ></iframe>
 
             <button
