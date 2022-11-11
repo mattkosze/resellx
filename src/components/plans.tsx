@@ -69,10 +69,6 @@ const Plans = () => {
         },
         {
           contains: true,
-          info: "Everything from the Novice Plan",
-        },
-        {
-          contains: true,
           info: "Create custom monitoring groups, allowing you to get specific websites monitored in one convenient place!",
         },
         {
