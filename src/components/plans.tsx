@@ -79,7 +79,7 @@ const Plans = () => {
     },
     {
       type: "Enterprise",
-      cost: 74.99,
+      cost: 74.99"+",
       items: [
         {
           contains: true,
