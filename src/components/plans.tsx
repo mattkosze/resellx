@@ -42,16 +42,20 @@ const Plan = ({ type, cost, items, index }: PlanProps) => {
 const Plans = () => {
   const plans = [
     {
-      type: "Pro",
+      type: "Novice",
       cost: 9.99,
       items: [
         {
           contains: true,
-          info: "Receive free release monitoring notifications from 10 preset websites via discord.",
+          info: "Ideal for beginners looking to get a foothold in reselling.",
+        },
+        {
+          contains: true,
+          info: "Customized ProfitPing preferences that automatically analyze profitability by checking retail prices against resell prices and show it on your webhooks!",
         },
         {
           contains: false,
-          info: "Customized ProfitPing settings.",
+          info: "Monitor custom Shopify websites.",
         },
       ],
     },
@@ -61,15 +65,19 @@ const Plans = () => {
       items: [
         {
           contains: true,
-          info: "Everything from the Free Plan",
+          info: "Ideal for advanced resellers or those looking to increase their profits.",
         },
         {
           contains: true,
-          info: "Customized ProfitPing preferences that automatically analyze profitability by checking retail prices against resell prices and show it on your webhooks!",
+          info: "Everything from the Novice Plan",
         },
         {
           contains: true,
-          info: "Monitor custom Shopify websites.",
+          info: "Create custom monitoring groups, allowing you to get specific websites monitored in one convenient place!",
+        },
+        {
+          contains: true,
+          info: "Color coordinated ProfitPing webhooks, allowing you to know what you should, could, and will buy at the glance of an eye!",
         },
       ],
     },
