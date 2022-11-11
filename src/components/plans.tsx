@@ -42,8 +42,8 @@ const Plan = ({ type, cost, items, index }: PlanProps) => {
 const Plans = () => {
   const plans = [
     {
-      type: "Free",
-      cost: 0,
+      type: "Pro",
+      cost: 9.99,
       items: [
         {
           contains: true,
@@ -56,8 +56,8 @@ const Plans = () => {
       ],
     },
     {
-      type: "Premium",
-      cost: 9.99,
+      type: "Expert",
+      cost: 19.99,
       items: [
         {
           contains: true,
@@ -74,20 +74,20 @@ const Plans = () => {
       ],
     },
     {
-      type: "Pro",
-      cost: 14.99,
+      type: "Enterprise",
+      cost: 74.99+,
       items: [
         {
           contains: true,
-          info: "Everything from the Premium Plan",
+          info: "Ideal for cookgroups looking to offer our product to their users.",
         },
         {
           contains: true,
-          info: "Create custom monitoring groups, allowing you to get specific websites monitored in one convenient place!",
+          info: "Everything from the Expert Plan plus additional business account management features.",
         },
         {
           contains: true,
-          info: "Color coordinated ProfitPing webhooks, allowing you to know what you should, could, and will buy at the glance of an eye!",
+          info: "Contact us via discord for custom pricing solutions reflective of your userbase.",
         },
       ],
     },
@@ -101,7 +101,7 @@ const Plans = () => {
         </span>
 
         <span className="font-medium text-[16px] text-[#7A8CA1] text-center">
-          Find a monthly plan that works for you!
+          Find a monthly plan that works for you or your business!
         </span>
       </div>
 
