@@ -94,7 +94,7 @@ const Header = ({ page }: ElementProps) => {
               </div>
 
               <span className="font-semibold text-[#7A8CA1] text-[18px]">
-                poopsicle#0001
+                username#0001
               </span>
             </div>
           ) : null}
@@ -180,7 +180,7 @@ const Header = ({ page }: ElementProps) => {
               </div>
 
               <span className="font-semibold text-[#7A8CA1] text-[18px]">
-                poopsicle#0001
+                username#0001
               </span>
             </div>
           ) : null}
