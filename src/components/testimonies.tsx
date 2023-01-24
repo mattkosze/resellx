@@ -25,19 +25,19 @@ const Testimonies = () => {
 
   const testimonies = [
     {
-      username: "bobbyflips",
-      testimony: `I applied to be a ResellX alpha-tester in mid-september and it’s BLAZING fast. The monitors have helped me cop up shock-drops where there wasn’t time to go online and research the shoe.`,
+      username: "@bobbyflips",
+      testimony: `The monitors have helped me cop up shock-drops where there wasn’t time to go online and research the shoe. Definitely recommend applying to join the February test group!`,
       image:
         "https://media.discordapp.net/attachments/1026623618018455562/1034317448280817744/EYzhy0AU8AAJxRa.jpeg?width=624&height=936",
     },
     {
-      username: "doorstepl",
+      username: "@doorstepl",
       testimony: `Genuinely the most useful tool for me as a beginner. Before I joined I had no idea what to buy or when to even buy it but this really simplified things. Would 100% recommend!`,
       image:
         "https://media.discordapp.net/attachments/1026623618018455562/1034317512558522499/FfrdcaWXoAAQ6vl.jpeg?width=936&height=936",
     },
     {
-      username: "Hishiro",
+      username: "@Hishiro",
       testimony: `I really hated watching restocks happening in but always missing out on them because I didn’t know whether the products were worth my money & time. Finally I have everything in one place!`,
       image:
         "https://media.discordapp.net/attachments/1026623618018455562/1034317559467614218/FfzQ9HjVQAAon0j.jpeg?width=702&height=936",
