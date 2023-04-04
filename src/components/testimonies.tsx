@@ -26,7 +26,7 @@ const Testimonies = () => {
   const testimonies = [
     {
       username: "@bobbyflips",
-      testimony: `The monitors have helped me cop up shock-drops where there wasn’t time to go online and research the shoe. Definitely recommend applying to join the February test group!`,
+      testimony: `The monitors have helped me cop up shock-drops where there wasn’t time to go online and research the shoe. Definitely recommend applying to join the April test group!`,
       image:
         "https://media.discordapp.net/attachments/1026623618018455562/1034317448280817744/EYzhy0AU8AAJxRa.jpeg?width=624&height=936",
     },
